@@ -6,7 +6,7 @@
 }
 
 body {
-    background: var(--color-bg);
+  background-image: radial-gradient(circle at center left, rgb(0,40,83),rgb(4,12,24));
 }
 
 a {
